@@ -1,5 +1,8 @@
 # Applied Statistics 2024
 ###### ATU Galway - 24-25: 8651 -- APPLIED STATISTICS 2024 - Lecturer: Ian McLoughlin
+
+# ![TheLadyTastingTea](data\image.png)
+
 <br>
 Project Author: Norbert Antal
 <br>
@@ -7,8 +10,8 @@ Project Author: Norbert Antal
 ##### *Files in this depository were created in a Python version 3.9.18 programming environment with Jupyter Notebook.*<br>
 
 ## The root folder contains:
-- 'tasks.ipynb' containing my work relating to the weekly tasks
-- 'project.ipynb' contains the assignment project
+- 'tasks.ipynb' containing my work relating to the weekly tasks - can be viewed in browser
+- 'project.ipynb' contains the assignment project -  can be viewed in browser
 - 'data' stores data files necessary for the tasks and project files.
 - 'notes' folder is not relevant to the assignments, containing lecture notes
 
